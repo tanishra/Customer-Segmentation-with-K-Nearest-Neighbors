@@ -19,7 +19,7 @@ This project applies the **K-Nearest Neighbors (KNN)** classification algorithm 
 
 **Dataset Name:** Mall Customers  
 **Source:** Kaggle  
-**Link:** [https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial)
+**Link:** [https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
 **Columns:**
 
