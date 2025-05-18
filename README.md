@@ -11,7 +11,6 @@ This project applies the **K-Nearest Neighbors (KNN)** classification algorithm 
 - ✅ Hyperparameter tuning using **GridSearchCV**
 - ✅ Feature preprocessing with **Label Encoding** and **StandardScaler**
 - ✅ Interactive UI built using **Streamlit**
-- ✅ Dataset: Mall Customers Dataset (publicly available)
 
 ---
 
